@@ -1,0 +1,131 @@
+{
+  "version": 1,
+  "plugins": [
+    {
+      "id": "openai-codex",
+      "packageName": "@mixa/plugin-openai-codex",
+      "version": "0.2.0",
+      "kind": "provider",
+      "description": "Use an installed Codex CLI and its provider-owned subscription sign-in as a native Mixa engine.",
+      "icon": "C",
+      "category": "Providers",
+      "contract": {
+        "min": 1,
+        "max": 1
+      },
+      "tarball": {
+        "url": "https://github.com/IMMERSIVE-REALITY-STUDIO/mixa-plugins/releases/download/openai-codex-v0.2.0/openai-codex-0.2.0.tar.gz",
+        "sha256": "1bda7b9da748c5243050f55100a22ada62aa094092e441e8aa35df39a002434f",
+        "bytes": 22151
+      }
+    },
+    {
+      "id": "claude",
+      "packageName": "@mixa/plugin-claude",
+      "version": "0.2.0",
+      "kind": "provider",
+      "description": "Use Claude as a Mixa engine through the Claude Code harness already installed on this machine.",
+      "icon": "claude",
+      "category": "Providers",
+      "contract": {
+        "min": 1,
+        "max": 1
+      },
+      "tarball": {
+        "url": "https://github.com/IMMERSIVE-REALITY-STUDIO/mixa-plugins/releases/download/claude-v0.2.0/claude-0.2.0.tar.gz",
+        "sha256": "3ba4182ba35cf74f67ad8b1c4306fef1cfe6cbdf7b98ac1ceced0746a10146e4",
+        "bytes": 1165202
+      }
+    },
+    {
+      "id": "opencode",
+      "packageName": "@mixa/plugin-opencode",
+      "version": "0.2.0",
+      "kind": "provider",
+      "description": "Run Operator conversations on a local OpenCode agent server.",
+      "icon": "opencode",
+      "category": "Providers",
+      "contract": {
+        "min": 1,
+        "max": 1
+      },
+      "tarball": {
+        "url": "https://github.com/IMMERSIVE-REALITY-STUDIO/mixa-plugins/releases/download/opencode-v0.2.0/opencode-0.2.0.tar.gz",
+        "sha256": "fcd5a4feea01d69134da9d48c538badabfc7db12c8fbd622ffc3011fb35e92cd",
+        "bytes": 29651
+      }
+    },
+    {
+      "id": "files",
+      "packageName": "@mixa/plugin-files",
+      "version": "0.1.0",
+      "kind": "app",
+      "description": "Browse and edit files in the local Mixa workspace.",
+      "icon": "🗂️",
+      "category": "Apps",
+      "contract": {
+        "min": 1,
+        "max": 1
+      },
+      "tarball": {
+        "url": "https://github.com/IMMERSIVE-REALITY-STUDIO/mixa-plugins/releases/download/files-v0.1.0/files-0.1.0.tar.gz",
+        "sha256": "37c5262654cd2d495ceb6932d25f6138152a39eb8a3907f49027a8e7c2619938",
+        "bytes": 16855
+      }
+    },
+    {
+      "id": "pdf",
+      "packageName": "@mixa/plugin-pdf",
+      "version": "0.1.0",
+      "kind": "app",
+      "description": "Find and read PDF documents in the local Mixa workspace.",
+      "icon": "📕",
+      "category": "Apps",
+      "contract": {
+        "min": 1,
+        "max": 1
+      },
+      "tarball": {
+        "url": "https://github.com/IMMERSIVE-REALITY-STUDIO/mixa-plugins/releases/download/pdf-v0.1.0/pdf-0.1.0.tar.gz",
+        "sha256": "d7229a58ad648e76a31dba59be5b5fbe20624c872326cdd1144935e5fe27d736",
+        "bytes": 6088
+      }
+    },
+    {
+      "id": "browser",
+      "packageName": "@mixa/plugin-browser",
+      "version": "0.1.0",
+      "kind": "app",
+      "description": "An embedded browser with persistent login profiles — sign in once and stay signed in across restarts.",
+      "icon": "🌐",
+      "category": "Apps",
+      "contract": {
+        "min": 1,
+        "max": 1
+      },
+      "tarball": {
+        "url": "https://github.com/IMMERSIVE-REALITY-STUDIO/mixa-plugins/releases/download/browser-v0.1.0/browser-0.1.0.tar.gz",
+        "sha256": "7ec94060c674cab62a022553b50d2dbf99da2cabc6cca3ea4c2a8a7945365f59",
+        "bytes": 15750
+      }
+    },
+    {
+      "id": "computer-use",
+      "packageName": "@mixa/plugin-computer-use",
+      "version": "0.1.0",
+      "kind": "app",
+      "description": "Drive this computer: screenshots, UI state, apps, windows, clicks, typing, keys, scroll, and drag — through a generic MCP capability.",
+      "icon": "🖥️",
+      "category": "Apps",
+      "contract": {
+        "min": 1,
+        "max": 1
+      },
+      "tarball": {
+        "url": "https://github.com/IMMERSIVE-REALITY-STUDIO/mixa-plugins/releases/download/computer-use-v0.1.0/computer-use-0.1.0.tar.gz",
+        "sha256": "a33c41d7fc9be0c148dc4a586a38d9fad53bbbf081a63c25fcc1a06bb735503e",
+        "bytes": 19994
+      }
+    }
+  ]
+}
