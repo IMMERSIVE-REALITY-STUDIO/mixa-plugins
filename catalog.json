@@ -15,8 +15,8 @@
       },
       "tarball": {
         "url": "https://github.com/IMMERSIVE-REALITY-STUDIO/mixa-plugins/releases/download/openai-codex-v0.2.1/openai-codex-0.2.1.tar.gz",
-        "sha256": "d400e209ca5a65968bd0539214c97ef500260f960995695ccc978d0bd46df17f",
-        "bytes": 22347
+        "sha256": "0e7b21c45343c55410caea74863b8070624916379476cf401126f64a3cc37333",
+        "bytes": 24625
       }
     },
     {
@@ -33,8 +33,8 @@
       },
       "tarball": {
         "url": "https://github.com/IMMERSIVE-REALITY-STUDIO/mixa-plugins/releases/download/claude-v0.2.0/claude-0.2.0.tar.gz",
-        "sha256": "3ba4182ba35cf74f67ad8b1c4306fef1cfe6cbdf7b98ac1ceced0746a10146e4",
-        "bytes": 1165202
+        "sha256": "f4ae8314f037a391d7c6631092a1017fabf5814c809961d52f841f8b3434e7ac",
+        "bytes": 1168142
       }
     },
     {
@@ -51,8 +51,8 @@
       },
       "tarball": {
         "url": "https://github.com/IMMERSIVE-REALITY-STUDIO/mixa-plugins/releases/download/opencode-v0.2.0/opencode-0.2.0.tar.gz",
-        "sha256": "fcd5a4feea01d69134da9d48c538badabfc7db12c8fbd622ffc3011fb35e92cd",
-        "bytes": 29651
+        "sha256": "b674ed296f48d841a3f045810742c9def892afaf6181afdf102d3fcb060cf892",
+        "bytes": 32524
       }
     },
     {
@@ -69,8 +69,8 @@
       },
       "tarball": {
         "url": "https://github.com/IMMERSIVE-REALITY-STUDIO/mixa-plugins/releases/download/files-v0.1.0/files-0.1.0.tar.gz",
-        "sha256": "37c5262654cd2d495ceb6932d25f6138152a39eb8a3907f49027a8e7c2619938",
-        "bytes": 16855
+        "sha256": "b78a7549f13f36385bdb6d9a576caeff7a2dc6dc177d39acc6056b071a48a78b",
+        "bytes": 17611
       }
     },
     {
@@ -87,8 +87,8 @@
       },
       "tarball": {
         "url": "https://github.com/IMMERSIVE-REALITY-STUDIO/mixa-plugins/releases/download/pdf-v0.1.0/pdf-0.1.0.tar.gz",
-        "sha256": "d7229a58ad648e76a31dba59be5b5fbe20624c872326cdd1144935e5fe27d736",
-        "bytes": 6088
+        "sha256": "c99ee783891aeb77686503dacbc9ab8278133b26ec9a4f259e2ac36f483149b6",
+        "bytes": 6765
       }
     },
     {
@@ -105,8 +105,8 @@
       },
       "tarball": {
         "url": "https://github.com/IMMERSIVE-REALITY-STUDIO/mixa-plugins/releases/download/browser-v0.1.0/browser-0.1.0.tar.gz",
-        "sha256": "7ec94060c674cab62a022553b50d2dbf99da2cabc6cca3ea4c2a8a7945365f59",
-        "bytes": 15750
+        "sha256": "1400246f4666694f13321db7fbba84f1c2b4f9b5b3ce9d6adac6eee50a5e3ed0",
+        "bytes": 16431
       }
     },
     {
@@ -123,8 +123,8 @@
       },
       "tarball": {
         "url": "https://github.com/IMMERSIVE-REALITY-STUDIO/mixa-plugins/releases/download/computer-use-v0.1.0/computer-use-0.1.0.tar.gz",
-        "sha256": "a33c41d7fc9be0c148dc4a586a38d9fad53bbbf081a63c25fcc1a06bb735503e",
-        "bytes": 19994
+        "sha256": "42f009d88ecc9135944b6f831ea50628dd8f6491becf50216b8e1417ca5044be",
+        "bytes": 21293
       }
     },
     {
@@ -141,8 +141,8 @@
       },
       "tarball": {
         "url": "https://github.com/IMMERSIVE-REALITY-STUDIO/mixa-plugins/releases/download/git-v0.1.0/git-0.1.0.tar.gz",
-        "sha256": "f75212b76d12a31974ec35f9829feb11588522f0dc453f6e84eb5bfac709da1e",
-        "bytes": 9804
+        "sha256": "c4a3c7f13c0189cbd0e5c40578c3bf187fc35463b7ee6afcfed62902938a8eb8",
+        "bytes": 10654
       }
     }
   ]
